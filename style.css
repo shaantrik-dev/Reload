@@ -161,7 +161,7 @@ main{
     background-image: url('./assets/ce655589909ac7f3ef00909c46cfe702.jpg');
     background-position: bottom;
 }
-.logo img:hover {
+.logo img {
  animation: logoani 5s ease-in-out 0s infinite ;
  cursor: pointer;
 }
