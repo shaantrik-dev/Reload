@@ -126,7 +126,7 @@ main{
     transform: rotateY(30deg);
 }
 .pics > div:nth-child(2):hover{
-    transform: rotateX(20deg);
+    transform: rotateX(20deg) scale(96%);
 }
 .pics > div:nth-child(3):hover{
     transform: rotateY(-30deg);
