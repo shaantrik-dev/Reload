@@ -81,6 +81,11 @@ main{
     font-size: 20px;
     align-self: flex-end;
     margin-bottom: 40px;
+    transition: all 5s ease-in-out;
+}
+.sidetext:hover{
+    cursor: pointer;
+  text-decoration: underline;
 }
 .mainhero{
     /* background-color: yellow; */
